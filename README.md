@@ -1,3 +1,3 @@
 # CoreSwiftUI
 
-A description of this package.
+Core Library for SwiftUI based development
